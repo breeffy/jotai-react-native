@@ -8,6 +8,8 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@types/deep-freeze": "^0.1.2",
+    "deep-freeze": "^0.0.1",
     "expo": "~39.0.2",
     "expo-status-bar": "~1.0.2",
     "jotai": "https://pkg.csb.dev/pmndrs/jotai/commit/fc64847c/jotai",
